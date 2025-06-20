@@ -7,7 +7,7 @@ Welcome to Teams and conditions's documentation!
 ================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: directory:
 
    docs/introduction
