@@ -16,7 +16,7 @@ Welcome to Teams and conditions's documentation!
    docs/private_and_security
    docs/blackchain_game_manual
    docs/game_manual
-
+ 
 Indices and tables
 ==================
 
