@@ -10,12 +10,12 @@ Welcome to Teams and conditions's documentation!
    :maxdepth: 2
    :caption: directory:
 
-   introduction
-   whitepaper
-   usermanual
-   private_and_security
-   blackchain_game_manual
-   game_manual
+   docs/introduction
+   docs/whitepaper
+   docs/usermanual
+   docs/private_and_security
+   docs/blackchain_game_manual
+   docs/game_manual
 
 Indices and tables
 ==================
