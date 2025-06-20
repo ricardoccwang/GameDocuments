@@ -10,7 +10,8 @@ Welcome to Teams and conditions's documentation!
    :maxdepth: 2
    :caption: directory:
 
-   introduction  
+   introduction
+   whitepaper
 
 Indices and tables
 ==================
