@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Teams and conditions'
-copyright = '2025, ricardos'
-author = 'ricardos'
+project = 'BTY Telegram Platform'
+copyright = '2025, BETY'
+author = 'BET Y'
 
 
 # -- General configuration ---------------------------------------------------

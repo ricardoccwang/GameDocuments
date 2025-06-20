@@ -12,6 +12,10 @@ Welcome to Teams and conditions's documentation!
 
    introduction
    whitepaper
+   usermanual
+   private_and_security
+   blackchain_game_manual
+   game_manual
 
 Indices and tables
 ==================
